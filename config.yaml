@@ -1,0 +1,88 @@
+baseurl: https://elisabeth.graf-at.eu
+title: Elisabeth Graf
+theme: hugo-theme-cleanwhite
+languageCode: en-us
+disqusShortname: '' # disabled
+googleAnalytics: '' # empty = disabled
+preserveTaxonomyNames: yes
+paginate: 5
+hasCJKLanguage: false
+outputs:
+  home:
+    - HTML
+    - RSS
+   # - Algolia
+params:
+  SEOTitle: Elisabeth Graf 
+  about_me: yes
+  addtional_menus:
+    - href: /cv/
+      title: CV
+    - href: /publications/
+      title: PUBLICATIONS
+    - href: /teaching/
+      title: TEACHING
+  #algolia:
+  #  params:
+   #   - categories
+  #    - tags
+   # vars:
+  #    - title
+   #   - summary
+  #    - date
+   #   - publishdate
+  #    - expirydate
+   #   - permalink
+ # algolia_apiKey: ''
+#  algolia_appId: ''
+#  algolia_indexName: ''
+#  algolia_search: yes
+  ba_track_id: ''
+  bookmark_link:
+    - href: https://scholar.google.at/citations?user=40jvvC8AAAAJ&hl=de
+      title: Google Scholar
+    - href: https://bildung-psy.univie.ac.at/ueber-uns/mitarbeiterinnen/elisabeth-graf/
+      title: University of Vienna
+  bookmarks: yes
+  description: Elisabeth Graf, psychology and political Science - research on academic emotions, civic education, political socialization. This is the personal website of Elisabeth Graf.
+  disqus_proxy: '' # comment system, diabled (accessible in China)
+  disqus_site: ''
+  featured_condition_size: 1
+  featured_tags: no
+  friend_link:
+    - href: 
+      title: 
+  friends: no
+  header_image: img/armenia.jpg
+  image_404: img/404-bg.jpg
+  keyword: Elisabeth Graf, psychology, civic education, university of vienna, Universität Wien
+  leancloud_app_id: ''
+  leancloud_app_key: ''
+  omit_categories: yes
+  page_view_conter: no
+  reward: no # Wechact Pay and Alipay to allow readers to send money
+  sidebar_about_description: Educational Psychologist at the University of Vienna
+  sidebar_avatar: img/elisabethgraf.jpg
+  slogan: Educational Psychology | Political Science
+  social:
+    email: graf.elisabeth@unive.ac.at
+    github: https://github.com/graf-lil
+    twitter: https://twitter.com/graf_lil
+    researchgate: https://www.researchgate.net/profile/Elisabeth-Graf-6
+    orcid: https://orcid.org/0000-0002-9856-6189
+    #linkedin: 
+    rss: no
+  title_404: You are wrongly directed :(
+  twikoo_env_id: ''
+#outputFormats:
+#  Algolia:
+#    baseName: algolia
+#    isPlainText: yes
+#    mediaType: application/json
+#    notAlternative: yes
+markup:
+  highlight:
+    style: dracula
+  tableOfContents:
+    endLevel: 2
+    startLevel: 1
