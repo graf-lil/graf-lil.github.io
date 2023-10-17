@@ -1,6 +1,6 @@
-baseurl: graf-lil.github.io
-title: Elisabeth Graf
-theme: hugo-theme-cleanwhite
+baseurl: 
+title: "Elisabeth Graf"
+theme: "hugo-theme-cleanwhite"
 languageCode: en-us
 disqusShortname: '' # disabled
 googleAnalytics: '' # empty = disabled
@@ -70,6 +70,7 @@ params:
     twitter: https://twitter.com/graf_lil
     researchgate: https://www.researchgate.net/profile/Elisabeth-Graf-6
     orcid: https://orcid.org/0000-0002-9856-6189
+    bsky: https://bsky.app/profile/elisabethgraf.bsky.social
     #linkedin: 
     rss: no
   title_404: You are wrongly directed :(
