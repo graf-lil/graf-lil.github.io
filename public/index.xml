@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisabeth Graf</title>
+    <link>https://graf-lil.github.io/</link>
+    <description>Recent content on Elisabeth Graf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graf-lil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://graf-lil.github.io/publications/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/publications/</guid>
+      <description>Working Papers Graf, E., Donath, J. L., Botes, E., Voracek, M., &amp;amp; Goetz, T. (2022). The associations between discrete emotions and political learning: A cross-disciplinary systematic review and meta-analysis [under review]. Department of Developmental and Educational Psychology, University of Vienna
+Graf, E., Stempfer, L., Muis, K., &amp;amp; Goetz, T. (2023). Classroom emotions in civic education: A multilevel approach to antecedents and effects [Manuscript submitted]. Department of Developmental and Educational Psychology, University of Vienna</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://graf-lil.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <description>About me I am &amp;hellip;.
+Publications Here you can find a list of my publication, conference presentations, and talks.
+Contact </description>
+    </item>
+    
+    <item>
+      <title>Clean White Theme for Hugo</title>
+      <link>https://graf-lil.github.io/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme.
+It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme.
+These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Zhaohuabing Blog</title>
+      <link>https://graf-lil.github.io/2017/11/03/hello-world/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/2017/11/03/hello-world/</guid>
+      <description> “Yeah It&amp;rsquo;s on. ”
+Hello World! </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://graf-lil.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/about/</guid>
+      <description>Welcome Welcome to my personal website! I am currently working as a university assistant at the Department of Developmental and Educational Psychology at the Univeristy of Vienna and about to finish my PhD at the VDS CoBeNe. My research interests are academic emotions, civic education and political socialization.
+On this website, you can find my CV, a list of publications and contributions to conferences and an overview of courses and workshops I taught up to now.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://graf-lil.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/cv/</guid>
+      <description>About Me I am currently working as a university assistant at the Department of Developmental and Educational Psychology at the Univeristy of Vienna and about to finish my PhD at the VDS CoBeNe. My research interests are academic emotions, civic education and political socialization.
+Work Experience University Assistant at the Department of Developmental and Educational Psychology, University of Vienna, 01.01.2020 - now Research Visit at the Department of Educational and Counselling Psychology, McGill University Montreal, 07.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://graf-lil.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/impressum/</guid>
+      <description>Elisabeth Graf
+Universitätsstraße 7
+1010 Wien
+Kontakt
+Telefon: +43-1-4277-47408 E-Mail: graf.elisabeth@univie.ac.at</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://graf-lil.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://graf-lil.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/teaching/</guid>
+      <description>University Courses University of Vienna As a University assistant, I have taught a seminar about &amp;ldquo;Political Identity Development and Civic Education&amp;rdquo; (MA Psychology, specialization in developmental and educational psychology) and a course about Science communication (BA Psychology). You can find an overview of my courses at the University of Vienna via ufind</description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://graf-lil.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graf-lil.github.io/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
